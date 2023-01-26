@@ -1,0 +1,25 @@
+{
+  "name": "@stanislav_laktionov/my-test-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanlaktionov/my-test-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanlaktionov/my-test-lib/issues"
+  },
+  "homepage": "https://github.com/stanlaktionov/my-test-lib#readme",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
